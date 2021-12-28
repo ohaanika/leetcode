@@ -1,4 +1,4 @@
-﻿# Designing Data-Intensive Applications
+﻿# [Designing Data-Intensive Applications](https://www.goodreads.com/book/show/23466395-designing-data-intensive-applications)
 
 ## Table of Contents
 
