@@ -2,7 +2,7 @@
 
 ## Table of Contents
 
-1. [Reliable, Scalable, and Maintainable Applications (pgs 3-26)](#1-reliable-scalable-and-maintainable-applications)
+- [ ] [1. Reliable, Scalable, and Maintainable Applications (pgs 3-26)](#1-reliable-scalable-and-maintainable-applications)
     - [ ] Thinking About Data Systems
     - [ ] Reliability
         - [ ] Hardware Faults
@@ -18,7 +18,7 @@
         - [ ] Simplicity: Managing Complexity
         - [ ] Evolvability: Making Change Easy
     - [ ] Summary
-2. [Data Models and Query Languages (pgs 27-68)](#2-data-models-and-query-language)
+- [ ] [2. Data Models and Query Languages (pgs 27-68)](#2-data-models-and-query-language)
     - [ ] Relational Model Versus Document Model
         - [ ] The Birth of NoSQL
         - [ ] The Object-Relational Mismatch
@@ -35,7 +35,7 @@
         - [ ] Triple-Stores and SPARQL
         - [ ] The Foundation: Datalog
     - [ ] Summary
-3. [Storage and Retrieval (pgs 69-110)](#3-storage-and-retrieval)
+- [ ] [3. Storage and Retrieval (pgs 69-110)](#3-storage-and-retrieval)
     - [ ] Data Structures That Power Your Database
         - [ ] Hash Indexes
         - [ ] SSTables and LSM-Trees
@@ -51,7 +51,7 @@
         - [ ] Writing to Column-Oriented Storage
         - [ ] Aggregation: Data Cubes and Materialized Views
     - [ ] Summary
-4. [Encoding and Evolution (pgs 111-150)](#4-encoding-and-evolution)
+- [ ] [4. Encoding and Evolution (pgs 111-150)](#4-encoding-and-evolution)
     - [ ] Formats for Encoding Data
         - [ ] Language-Specific Formats
         - [ ] JSON, XML, and Binary Variants

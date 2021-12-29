@@ -2,7 +2,7 @@
 
 ## Table of Contents
 
-8. [Architecture Design (pgs 237-264)](#8-architecture-design)
+- [ ] [8. Architecture Design (pgs 237-264)](#8-architecture-design)
 	- [x] Introduction
 	- [ ] Elements of an Architecture Design
 		- [x] [Architectural Components](#architectural-components)
