@@ -1,6 +1,7 @@
 # [System Design Primer Course](https://www.youtube.com/playlist?list=PLTCrU9sGyburBw9wNOHebv9SjlE4Elv5a)
 
 ## Table of Contents
+
 - [x] 1. Introduction to System Design (4:49)
 - [x] 2. Components of System Design (6:03)
 - [x] 3. Client Server Architecture (6:03)
